@@ -27,6 +27,8 @@ The executable is written to `build/hello`. Remove generated files with `make cl
 ## Source
 
 - `src/hello.asm` — commented 32-bit NASM hello-world example.
+- `src/check_vowel.asm` — checks whether a character is one of the uppercase vowels using conditional jumps.
+- `src/simple_calculator.asm` — a small interactive calculator for addition, subtraction, multiplication, and division using Linux syscalls.
 
 ## Adding examples
 
